@@ -1,0 +1,8 @@
+const GENESIS_DATA = {
+  timestamp: 1,
+  lastHash: "0000000000000000000000000000000000000",
+  hash: "0000000000000000000000000000000000000",
+  data: [],
+};
+
+module.exports = { GENESIS_DATA };
