@@ -9,3 +9,6 @@ If you already installed node then we are installing a library for testing `jest
 ```
 npm i jest
 ```
+1. Created Block.js for define block method and block.test.js for testing.
+2. Create a construct method.
+3. Create addBlock method.
